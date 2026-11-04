@@ -33,4 +33,5 @@
 
 ## Class Diagram
 
-![Parking Lot Class Diagram](https://raw.githubusercontent.com/ashishps1/awesome-low-level-design/main/class-diagrams/parkinglot-class-diagram.png)
+![Uploading image.png…]()
+
