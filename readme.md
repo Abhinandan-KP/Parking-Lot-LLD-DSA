@@ -32,6 +32,7 @@
 ---
 
 ## Class Diagram
+<img width="5543" height="2344" alt="parking_lot_uml" src="https://github.com/user-attachments/assets/cbc51f5e-7bd3-4b82-9ed2-ad5dfb1434d3" />
 
-![Uploading image.png…]()
+
 
